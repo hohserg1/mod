@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  m",
+    " m ",
+    "sf "
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "m": {
+      "item": "minecraft:iron_ingot"
+    },
+    "f": {
+      "item": "danmachi:lygerfang_fang"
+    }
+  },
+  "result": {
+    "item": "danmachi:kotetsu"
+  }
+}

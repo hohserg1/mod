@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "as",
+    "sa"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:cobblestone"
+    },
+    "a": {
+      "item": "danmachi:adamantite_ingot"
+    }
+  },
+  "result": {
+    "item": "danmachi:adamantite_wall"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "pools": [
+	{
+	  "name":"unicorn_stone",
+      "rolls": 1,
+      "entries": [
+        {
+		  "type": "item",
+          "name": "danmachi:magic_stone",
+          "weight": 1,
+		  "functions": [
+		  {
+			"function": "minecraft:set_nbt",
+			"tag": "{display:{Lore:[\"Dropped from unicorn\"]}}"
+	      }
+		  ]
+        }
+      ]
+    }
+  ]
+}

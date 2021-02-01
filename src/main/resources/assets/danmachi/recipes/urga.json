@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "u",
+    "s",
+    "u"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "u": {
+      "item": "danmachi:urga_blade"
+    }
+  },
+  "result": {
+    "item": "danmachi:urga"
+  }
+}

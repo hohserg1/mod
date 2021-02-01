@@ -1,0 +1,23 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a",
+    " a",
+    "ls"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "a": {
+      "item": "danmachi:adamantite_ingot"
+    },
+    "l": {
+      "item": "minecraft:dye",
+      "data": 4
+    }
+  },
+  "result": {
+    "item": "danmachi:desperate"
+  }
+}

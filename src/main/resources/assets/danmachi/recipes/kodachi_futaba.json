@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "m",
+    "m",
+    "g"
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:gold_ingot"
+    },
+    "m": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "danmachi:kodachi_futaba"
+  }
+}

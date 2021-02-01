@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " m",
+    " m",
+    "is"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "m": {
+      "item": "danmachi:mythril_ingot"
+    },
+    "i": {
+      "item": "danmachi:ichor"
+    }
+  },
+  "result": {
+    "item": "danmachi:hestia_knife"
+  }
+}

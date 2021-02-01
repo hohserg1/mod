@@ -1,0 +1,62 @@
+{
+  "entity.minotaur.ambient": {
+    "category": "entity",
+    "subtitle": "entity.minotaur.ambient",
+    "sounds": [
+      {
+        "name": "danmachi:entity/minotaur/ambient",
+        "stream": true
+      }
+    ]
+  },
+  "entity.minotaur.hurt": {
+    "category": "entity",
+    "subtitle": "entity.minotaur.hurt",
+    "sounds": [
+      {
+        "name": "danmachi:entity/minotaur/hurt",
+        "stream": true
+      }
+    ]
+  },
+  "entity.minotaur.death": {
+    "category": "entity",
+    "subtitle": "entity.minotaur.death",
+    "sounds": [
+      {
+        "name": "danmachi:entity/minotaur/death",
+        "stream": true
+      }
+    ]
+  },
+  "entity.lygerfang.ambient": {
+    "category": "entity",
+    "subtitle": "entity.lygerfang.ambient",
+    "sounds": [
+      {
+        "name": "danmachi:entity/lygerfang/ambient",
+        "stream": true
+      }
+    ]
+  },
+  "entity.lygerfang.hurt": {
+    "category": "entity",
+    "subtitle": "entity.lygerfang.hurt",
+    "sounds": [
+      {
+        "name": "danmachi:entity/lygerfang/hurt",
+        "stream": true
+      }
+    ]
+  },
+  "entity.lygerfang.death": {
+    "category": "entity",
+    "subtitle": "entity.lygerfang.death",
+    "sounds": [
+      {
+        "name": "danmachi:entity/lygerfang/death",
+        "stream": true
+      }
+    ]
+  }
+}

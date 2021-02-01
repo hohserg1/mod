@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a",
+    " a",
+    "fs"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "a": {
+      "item": "danmachi:adamantite_ingot"
+    },
+    "f": {
+      "item": "minecraft:flint_and_steel"
+    }
+  },
+  "result": {
+    "item": "danmachi:fire_magic_sword"
+  }
+}

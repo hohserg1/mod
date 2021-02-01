@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  a",
+    " s ",
+    "s  "
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "a": {
+      "item": "danmachi:adamantite_ingot"
+    }
+  },
+  "result": {
+    "item": "danmachi:fortia_spear"
+  }
+}

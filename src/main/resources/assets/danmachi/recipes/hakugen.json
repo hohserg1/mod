@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " a",
+    " a",
+    "us"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stick"
+    },
+    "a": {
+      "item": "danmachi:adamantite_ingot"
+    },
+    "u": {
+      "item": "danmachi:unicorn_horn"
+    }
+  },
+  "result": {
+    "item": "danmachi:hakugen"
+  }
+}

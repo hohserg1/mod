@@ -1,0 +1,15 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "a",
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "danmachi:adamantite_ingot"
+    }
+  },
+  "result": {
+    "item": "danmachi:urga_blade"
+  }
+}

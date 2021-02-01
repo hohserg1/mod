@@ -1,0 +1,74 @@
+//items
+item.unicorn_horn.name=Unicorn Horn
+item.magic_stone.name=Magic Stone
+item.goblin_fang.name=Goblin Fang
+item.morbul.name=Morbul
+item.adamantite_ingot.name=Adamantite Ingot
+item.mythril_ingot.name=Mythril Ingot
+item.orichalcum_ingot.name=Orichalcum Ingot
+item.hakugen.name=Hakugen
+item.hestia_knife.name=Hestia Knife
+item.desperate.name=Desperate
+item.jagamarukun.name=Jagamarukun
+item.rabbit_armor_boots.name=Rabbit Armor Boots
+item.rabbit_armor_leggings.name=Rabbit Armor Leggings
+item.rabbit_armor_chestplate.name=Rabbit Armor Chestplate
+item.soma.name=Soma
+item.special_magic_stone.name=Richly Colored Magic Stone
+item.dagger.name=Dagger
+item.fire_magic_sword.name=Fire Magic Sword
+item.ice_magic_sword.name=Ice Magic Sword
+item.salamander_wool_cloak.name=Salamander Wool Cloak
+item.crystal_drop.name=Crystal Drop
+item.kobold_nail.name=Kobold Nail
+item.greatsword.name=Greatsword
+item.ichor.name=Ichor
+item.kotetsu.name=Kotestu
+item.almiraj_fur.name=Almiraj Fur
+item.lygerfang_fang.name=Lygerfang Fang
+item.lygerfang_fur.name=Lygerfang Fur
+item.green_supporter.name=Green Supporter
+item.ushiwakamaru.name=Ushiwakamaru
+item.minotaur_horn.name=Minotaur Horn
+item.kodachi_futaba.name=Kodachi Futaba
+item.mermaid_blood.name=Mermaid Blood
+item.great_podao_zaga.name=Great Podao Zaga
+item.little_ballista.name=Little Ballista
+item.fortia_spear.name=Fortia Spear
+item.protagonista.name=Protagonista
+item.urga_blade.name=Urga Blade
+item.urga.name=Urga
+item.hades_head.name=Hades Head
+item.guide_book.name=Guide Book
+
+//blocks
+tile.adamantite_block.name=Adamantite Block
+tile.mythril_block.name=Mythril Block
+tile.adamantite_ore.name=Adamantite Ore
+tile.mythril_ore.name=Mythril Ore
+tile.orichalcum_block.name=Orichalcum Block
+tile.orichalcum_ore.name=Orichalcum Ore
+tile.raging_inferno.name=Raging Inferno
+tile.orichalcum_wall.name=Orichalcum Wall
+tile.adamantite_wall.name=Adamantite Wall
+
+//entities
+entity.goblin.name=Goblin
+entity.kobold.name=Kobold
+entity.unicorn.name=Unicorn
+entity.almiraj.name=Almiraj
+entity.needle_rabbit.name=Needle Rabbit
+entity.minotaur.name=Minotaur
+entity.lygerfang.name=Lygerfang
+entity.killer_ant.name=Killer Ant
+entity.god.name=God
+
+//item groups
+itemGroup.danmachitab=Danmachi
+
+//keybinds
+key.status=Open status
+key.categories.danmachi=Danmachi
+
+//enchantments
+enchantment.durandal=Durandal

@@ -1,0 +1,35 @@
+{
+  "display": {
+    "title": {
+      "text": "Aiz is jealous",
+      "italic": false,
+      "obfuscated": false
+    },
+    "description": {
+      "text": "Eat a jagamarukun"
+    },
+    "icon": {
+      "item": "danmachi:jagamarukun"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+    "background": "minecraft:textures/gui/advancements/backgrounds/stone.png"
+  },
+  "parent": "danmachi:the_start_of_an_adventurer",
+  "criteria": {
+    "c1": {
+      "trigger": "minecraft:consume_item",
+      "conditions": {
+        "item": {
+          "item": "danmachi:jagamarukun",
+          "count": {
+            "min": 1,
+            "max": 1
+          }
+        }
+      }
+    }
+  }
+}

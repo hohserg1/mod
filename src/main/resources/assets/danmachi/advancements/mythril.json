@@ -1,0 +1,32 @@
+{
+  "display": {
+    "title": {
+      "text": "Not very chewy",
+      "italic": false,
+      "obfuscated": false
+    },
+    "description": {
+      "text": "Obtain mythril"
+    },
+    "icon": {
+      "item": "danmachi:mythril_ingot"
+    }
+  },
+  "parent": "danmachi:the_start_of_an_adventurer",
+  "criteria": {
+    "c1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "danmachi:mythril_ingot",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  }
+}

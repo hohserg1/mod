@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "mm",
+    "m ",
+    "g "
+  ],
+  "key": {
+    "g": {
+      "item": "minecraft:planks",
+      "data": 0
+    },
+    "m": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "danmachi:great_podao_zaga"
+  }
+}

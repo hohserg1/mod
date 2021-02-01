@@ -1,0 +1,32 @@
+{
+  "display": {
+    "title": {
+      "text": "testAchievement",
+      "italic": false,
+      "obfuscated": false
+    },
+    "description": {
+      "text": "Forge the hestia knife"
+    },
+    "icon": {
+      "item": "danmachi:hestia_knife"
+    }
+  },
+  "parent": "danmachi:mythril",
+  "criteria": {
+    "c1": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "danmachi:hestia_knife",
+            "count": {
+              "min": 1,
+              "max": 1
+            }
+          }
+        ]
+      }
+    }
+  }
+}
